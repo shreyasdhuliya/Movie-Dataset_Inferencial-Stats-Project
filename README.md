@@ -6,11 +6,8 @@
 To explore the the IMDB dataset and report findinigs on **correlations** between **vote average** of the movies and other features.
 The dataset contians 10866 rows with 21 numerical or categorical features. 
 
-[View Report Here](https://github.com/shreyasdhuliya/Movie-Dataset_Inferencial-Stats-Project/blob/master/Movie_dataset_Inferential_stats.ipynb)
-
 ### Files 
-`Movie_dataset_Inferential_stats.ipynb` jupyternotebook File -open this file to view Data Analysis.
-
+`Movie_dataset_Inferential_stats.ipynb` jupyter Notebook File containing the report [Click here to view](https://github.com/shreyasdhuliya/Movie-Dataset_Inferencial-Stats-Project/blob/master/Movie_dataset_Inferential_stats.ipynb)
 ### Installations
 This project requires Python 2.7 and the following Python libraries installed:
 - NumPy
