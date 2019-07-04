@@ -8,6 +8,9 @@ The dataset contians 10866 rows with 21 numerical or categorical features.
 
 [View Report Here](https://github.com/shreyasdhuliya/Movie-Dataset_Inferencial-Stats-Project/blob/master/Movie_dataset_Inferential_stats.ipynb)
 
+### Files 
+`Movie_dataset_Inferential_stats.ipynb` jupyternotebook File -open this file to view Data Analysis.
+
 ### Installations
 This project requires Python 2.7 and the following Python libraries installed:
 - NumPy
